@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "История/Лекция 03.10.md",
+                "file": "БД 1 сем/Лекция 07.10.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "рсд",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "История/Лекция 03.10.md",
+                "file": "БД 1 сем/Лекция 07.10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "История/Лекция 03.10.md",
+                "file": "БД 1 сем/Лекция 07.10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "История/Лекция 03.10.md"
+                "file": "БД 1 сем/Лекция 07.10.md"
               }
             }
           },
@@ -161,14 +160,17 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d418dabbb00fbab4",
+  "active": "bec5576341097456",
   "lastOpenFiles": [
+    "[.md",
+    "БД 1 сем/Лекция 07.10.md",
+    "БД 1 сем/Лекция 30.09.md",
+    "БД 1 сем/Pasted image 20240922140127.png",
+    "БД Практика/Модель данных.md",
+    "Pasted image 20241004172237.png",
+    "История/Лекция 03.10.md",
     "ООП",
     "Pasted image 20241003101614.png",
-    "История/Лекция 03.10.md",
-    "БД 1 сем/Pasted image 20240922140127.png",
-    "БД 1 сем/Лекция 30.09.md",
-    "БД Практика/Модель данных.md",
     "Untitled.md",
     "vk.com.md",
     "Pasted image 20240930181013.png",
