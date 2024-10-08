@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "БД 1 сем/Лекция 07.10.md",
+                "file": "English/8.10.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cd5aad0eada65c5b",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "БД 1 сем/Лекция 07.10.md",
+                "file": "English/8.10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "БД 1 сем/Лекция 07.10.md",
+                "file": "English/8.10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "БД 1 сем/Лекция 07.10.md"
+                "file": "English/8.10.md"
               }
             }
           },
@@ -162,8 +163,10 @@
   },
   "active": "bec5576341097456",
   "lastOpenFiles": [
-    "[.md",
     "БД 1 сем/Лекция 07.10.md",
+    "English/8.10.md",
+    "English",
+    "[.md",
     "БД 1 сем/Лекция 30.09.md",
     "БД 1 сем/Pasted image 20240922140127.png",
     "БД Практика/Модель данных.md",
